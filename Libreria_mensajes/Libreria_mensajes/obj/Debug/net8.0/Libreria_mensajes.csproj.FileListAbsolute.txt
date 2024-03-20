@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\bin\Debug\net8.0\Libreria_mensajes.deps.json
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\bin\Debug\net8.0\Libreria_mensajes.dll
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\bin\Debug\net8.0\Libreria_mensajes.pdb
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.AssemblyInfo.cs
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.dll
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\refint\Libreria_mensajes.dll
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\Libreria_mensajes.pdb
+C:\Users\hp\source\repos\Libreria_mensajes\Libreria_mensajes\obj\Debug\net8.0\ref\Libreria_mensajes.dll
